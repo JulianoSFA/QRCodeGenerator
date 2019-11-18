@@ -1,0 +1,14 @@
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\QRcode generator.exe.config
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\QRcode generator.exe
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\QRcode generator.pdb
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\zxing.dll
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\zxing.presentation.dll
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\zxing.pdb
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\zxing.xml
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\zxing.presentation.pdb
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Release\zxing.presentation.xml
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\obj\Release\QRcode generator.csprojAssemblyReference.cache
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\obj\Release\QRcode generator.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\obj\Release\QRcode generator.csproj.CopyComplete
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\obj\Release\QRcode generator.exe
+C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\obj\Release\QRcode generator.pdb
