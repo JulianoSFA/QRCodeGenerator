@@ -12,3 +12,17 @@ C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Debug\zxing.
 C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Debug\zxing.presentation.pdb
 C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\bin\Debug\zxing.presentation.xml
 C:\Users\Juliano\source\repos\QRcode generator\QRcode generator\obj\Debug\QRcode generator.csproj.CopyComplete
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\QRcode generator.exe.config
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\QRcode generator.exe
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\QRcode generator.pdb
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\zxing.dll
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\zxing.presentation.dll
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\zxing.pdb
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\zxing.xml
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\zxing.presentation.pdb
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\bin\Debug\zxing.presentation.xml
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\obj\Debug\QRcode generator.csprojAssemblyReference.cache
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\obj\Debug\QRcode generator.csproj.CoreCompileInputs.cache
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\obj\Debug\QRcode generator.csproj.CopyComplete
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\obj\Debug\QRcode generator.exe
+C:\Users\Juliano\source\repos\QRcode generator\QRCodeGenerator\QRcode generator\obj\Debug\QRcode generator.pdb

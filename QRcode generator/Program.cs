@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Drawing;
+using System.IO;
 
 namespace QRcode_generator
 {
@@ -8,6 +9,8 @@ namespace QRcode_generator
         int size;
         int qrCodeCounter;
         string quantity;
+        string desktop = Environment.GetFolderPath(Environment.SpecialFolder.Desktop);
+        string path = Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/QRcode";
 
         static void Main()
         {
@@ -17,9 +20,18 @@ namespace QRcode_generator
 
         void Run()
         {
+            if (!Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/QRcode"))
+            {
+                Console.WriteLine("Criando Diretório...");
+                CreateDirectory();
+            } 
+            else
+                Console.WriteLine("Diretório existente");
+            
+
             Console.WriteLine("Coloque o tamanho da imagem");
             size = int.Parse(Console.ReadLine());
-            string[] text = System.IO.File.ReadAllLines("C:/Users/Juliano/Desktop/QRcode/Links.txt"); //Lê as linhas do txt e coloca cada uma em um array
+            string[] text = System.IO.File.ReadAllLines(path + "/Links.txt"); //Lê as linhas do txt e coloca cada uma em um array
 
             for (int i = 0; i < text.Length; i++) 
             {
@@ -54,5 +66,12 @@ namespace QRcode_generator
             var result = new Bitmap(qrCode.Write(text));
             return result;
         } //Gera o QRcode da string com base no tamanho (Configurações fixas) (.bmp)
+
+        void CreateDirectory()
+        {
+            Directory.CreateDirectory(path);
+            Directory.CreateDirectory(path + "/Saida");
+            File.Create(path + "/Links.txt");
+        }
     }
 }
