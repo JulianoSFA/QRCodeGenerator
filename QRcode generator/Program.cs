@@ -20,7 +20,7 @@ namespace QRcode_generator
 
         void Run()
         {
-            if (!Directory.Exists(Environment.GetFolderPath(Environment.SpecialFolder.Desktop) + "/QRcode"))
+            if (!Directory.Exists(path))
             {
                 Console.WriteLine("Criando Diretório...");
                 CreateDirectory();
